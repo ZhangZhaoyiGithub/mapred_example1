@@ -19,6 +19,7 @@ public class PhoneBean implements Writable {
         System.out.println ("git merge resolve");
         System.out.println ("git branch -a -r ");
         System.out.println ("git merge conflict with git commit");
+        System.out.println ("use git merge from sourceTree");
     }
 
     @Override
