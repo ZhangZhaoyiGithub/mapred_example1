@@ -16,6 +16,7 @@ public class PhoneBean implements Writable {
     public void write(DataOutput dataOutput) throws IOException {
         System.out.println ("the dev branch");
         System.out.println ("git branch -a -r ");
+        System.out.println ("git merge conflict with git commit");
     }
 
     @Override
