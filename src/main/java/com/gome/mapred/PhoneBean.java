@@ -21,6 +21,8 @@ public class PhoneBean implements Writable {
         System.out.println ("git merge conflict with git commit");
         System.out.println ("use git merge from sourceTree");
         System.out.println ("use sourceTree merge branch");
+
+        System.out.println ("use the fast-forward");
     }
 
     @Override
