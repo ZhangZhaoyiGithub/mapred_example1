@@ -23,6 +23,8 @@ public class PhoneBean implements Writable {
         System.out.println ("use sourceTree merge branch");
 
         System.out.println ("use the fast-forward");
+
+        System.out.println ("hotfix use the fast-forward");
     }
 
     @Override
