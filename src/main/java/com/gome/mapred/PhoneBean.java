@@ -15,6 +15,7 @@ public class PhoneBean implements Writable {
     @Override
     public void write(DataOutput dataOutput) throws IOException {
         System.out.println ("the dev branch");
+        System.out.println ("git branch -a -r ");
     }
 
     @Override
